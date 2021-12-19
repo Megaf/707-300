@@ -2377,7 +2377,7 @@
     <!--cockpit -->
     <model>
     <name>cockpit</name>
-    <path>Aircraft/707/Models/Cockpit/cockpit.xml</path>
+    <path>Aircraft/707-300/Models/Cockpit/cockpit.xml</path>
     <offsets>
     <x-m>0.0</x-m>
     <y-m>0.0</y-m>
